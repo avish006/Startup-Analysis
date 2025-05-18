@@ -1,4 +1,4 @@
-#Indian Startup Ecosystem Analysis Dashboard
+# Indian Startup Ecosystem Analysis Dashboard
 
 This interactive dashboard provides a deep analytical look into the Indian startup funding landscape. Explore trends, track investor behavior, analyze funding rounds, and evaluate the startup ecosystem across industries, cities, and time.
 
