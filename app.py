@@ -10,7 +10,7 @@ st.set_page_config(page_title="Startup Ecosystem Dashboard", layout="wide")
 # Load data
 @st.cache_data
 def load_data():
-    df = pd.read_csv("D:\VSCode Projects\Startup Analysis Project\cleaned_startup_data (1).csv")
+    df = pd.read_csv("cleaned_startup_data (1).csv")
     df['Date'] = pd.to_datetime(df['Date'], errors='coerce')
     df['Year'] = df['Date'].dt.year
     df['Month'] = df['Date'].dt.to_period('M')
