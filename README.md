@@ -37,6 +37,8 @@ The dataset is sourced from public Kaggle repositories related to Indian startup
 - City / Location
 - Date of Funding
 
+Dataset: [Download Dataset](https://www.kaggle.com/datasets/riteshsoun/indian-startup-funding-jan-2015-april-2021)
+
 Custom cleaning applied to:
 - Merge duplicate industry/location labels
 - Standardize missing or unknown values
